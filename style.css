@@ -1,0 +1,88 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+#menu {
+    text-align: center;
+}
+
+.game-container {
+    position: relative;
+    width: 100vw; /* Largeur de la zone de jeu */
+/* height: 100vh; Hauteur de la zone de jeu */
+/* overflow: hidden; */
+/* margin: auto; Centrer le conteneur */
+/* } */
+/* 
+#clown {
+    position: absolute;
+    width: 100px; /* Largeur de l'image du clown */
+/* height: 100px; Hauteur de l'image du clown */
+/* display: none; Masquer le clown au début */
+/* cursor: pointer; */
+/* }  
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+#main-menu {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Prend toute la hauteur de la fenêtre */
+/* } */
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+#menu {
+  text-align: center;
+}
+
+.game-container {
+  position: relative;
+  width: 100vw; /* Largeur de la zone de jeu */
+  height: 100vh; /* Hauteur de la zone de jeu */
+  overflow: hidden;
+  margin: auto; /* Centrer le conteneur */
+}
+
+#clown {
+  position: absolute;
+  width: 100px; /* Largeur de l'image du clown */
+  height: 100px; /* Hauteur de l'image du clown */
+  display: none; /* Masquer le clown au début */
+  cursor: pointer;
+}
+
+.body {
+  background-image: url(background.jpg);
+  font-family: Arial, sans-serif;
+  background-size: cover; /* Couvre tout l'arrière-plan */
+  background-position: center; /* Centre l'image */
+  background-repeat: no-repeat; /* Évite la répétition de l'image */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
